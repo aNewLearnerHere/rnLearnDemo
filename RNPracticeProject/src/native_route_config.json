@@ -14,5 +14,13 @@
 		"route": "/List",
 		"params": {},
 		"callbacks": {}
+	},
+	{
+		"module": "",
+		"method": "open",
+		"desc": "",
+		"route": "/selfDefine/selfDefine",
+		"params": {},
+		"callbacks": {}
 	}
 ]
