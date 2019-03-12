@@ -1,0 +1,18 @@
+[
+	{
+		"module": "",
+		"method": "open",
+		"desc": "",
+		"route": "/Index",
+		"params": {},
+		"callbacks": {}
+	},
+	{
+		"module": "",
+		"method": "open",
+		"desc": "",
+		"route": "/List",
+		"params": {},
+		"callbacks": {}
+	}
+]
