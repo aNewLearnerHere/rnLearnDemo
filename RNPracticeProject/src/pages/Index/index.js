@@ -30,7 +30,7 @@ class Index extends SRNPage {
     // [SRNavigator 导航器] http://fedoc.sqaproxy.souche.com/#/rn/navigator/srn-navigator
     static navigation = {
         title: {
-            text: '首页'
+            text: '第一个RN页面'
         }
     };
 
