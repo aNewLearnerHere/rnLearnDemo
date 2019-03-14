@@ -79,7 +79,7 @@ class Index extends SRNPage {
 
     toList () {
         // 用 Route 跳转页面
-         this.route.open('/List');
+         this.route.open('/selfDefine');
         /**
         SRNNative.openDatePicker({
             value: '2015/07/10',
