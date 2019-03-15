@@ -3,6 +3,14 @@
 		"module": "",
 		"method": "open",
 		"desc": "",
+		"route": "/definePages/carDetail",
+		"params": {},
+		"callbacks": {}
+	},
+	{
+		"module": "",
+		"method": "open",
+		"desc": "",
 		"route": "/Index",
 		"params": {},
 		"callbacks": {}
@@ -19,7 +27,15 @@
 		"module": "",
 		"method": "open",
 		"desc": "",
-		"route": "/selfDefine/selfDefine",
+		"route": "/verifyTestOne",
+		"params": {},
+		"callbacks": {}
+	},
+	{
+		"module": "",
+		"method": "open",
+		"desc": "",
+		"route": "/verifyTestTwo/verifyTestTwo",
 		"params": {},
 		"callbacks": {}
 	}

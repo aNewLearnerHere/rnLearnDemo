@@ -12,6 +12,7 @@
     "update-ios": "node ./node_modules/@souche-f2e/srn-toolchain/scripts/update_ios.js"
   },
   "dependencies": {
+    "@souche-f2e/SImage": "^1.0.10",
     "@souche-f2e/srn-framework": "0.5.6",
     "@souche-ui/srn-ui": "0.17.2",
     "ajv": "^5.5.2",
@@ -45,7 +46,7 @@
     "url": "git@git.souche-inc.com:undefined/RNPracticeProject.git"
   },
   "license": "MIT",
-  "author": "yangsongsong@cheyipai.com",
+  "author": "luwenchao@cheyipai.com",
   "sentry": {
     "projectSlug": "",
     "dsn": ""

@@ -30,7 +30,7 @@ class Index extends SRNPage {
     // [SRNavigator 导航器] http://fedoc.sqaproxy.souche.com/#/rn/navigator/srn-navigator
     static navigation = {
         title: {
-            text: '第一个RN页面'
+            text: '首页'
         }
     };
 
@@ -65,7 +65,7 @@ class Index extends SRNPage {
                   () => {
                       this.toList();
                   }
-              }>跳转到列表页面</Button>
+              }>各级入口页</Button>
               <DatePickerIOS
                 date={new Date()}
                 mode="datetime"
@@ -79,7 +79,7 @@ class Index extends SRNPage {
 
     toList () {
         // 用 Route 跳转页面
-         this.route.open('/selfDefine');
+        this.route.open('/verifyTestOne');
         /**
         SRNNative.openDatePicker({
             value: '2015/07/10',
